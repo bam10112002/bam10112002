@@ -10,7 +10,7 @@
 
 <p align='center'>
    <a href="https://vk.com/abuloviatov/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+       <img src="https://pngicon.ru/file/uploads/vk.png"/>
    </a>
    <a href="https://t.me/Artembulov">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -26,3 +26,9 @@
 *  SQL, Docker, OOП
 *  CSS, HTML
 *  GitHub/GitLab
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/romankh3/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+   </a>
+</div>
