@@ -1,4 +1,4 @@
-<h1 align='center' >welcome to my github</h1>
+<h1 align='center' >Welcome to my github</h1>
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=bam10112002&show_icons=true&count_private=true"><img
@@ -19,3 +19,10 @@
 <p align='center'>
    📫 How to reach me: <a href='mailto:bam10112002@gmail.com'>bam10112002@gmail.com</a>
 </p>
+
+## 🛠 Technical Stack
+*  Java, Python, C++
+*  Django, Spring
+*  SQL, Docker, OOП
+*  CSS, HTML
+*  GitHub/GitLab
