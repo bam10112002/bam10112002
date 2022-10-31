@@ -4,8 +4,8 @@
    <a href="https://github-readme-stats.vercel.app/api?username=bam10112002&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=bam10112002&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+   <a href="https://github.com/bam10112002/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bam10112002&layout=compact"/></a>
 </p>
 
 <p align='center'>
