@@ -27,4 +27,4 @@
 *  CSS, HTML
 *  GitHub/GitLab
 
-</img src="https://i.gifer.com/4NWG.gif">
+![image](https://i.gifer.com/4NWG.gif)
