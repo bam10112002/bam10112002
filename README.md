@@ -1,4 +1,4 @@
-<h1 align='center' >Welcome to my github</h1>
+<h1 align='center' >Welcome to my GitHub</h1>
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=bam10112002&show_icons=true&count_private=true"><img
