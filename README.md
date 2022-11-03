@@ -26,5 +26,6 @@
 *  SQL, Docker, OOП
 *  CSS, HTML
 *  GitHub/GitLab
-
+<p align='center'>
 ![image](https://github.com/bam10112002/bam10112002/blob/main/4NWG.gif)
+</p>
