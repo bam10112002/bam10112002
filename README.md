@@ -27,4 +27,4 @@
 *  CSS, HTML
 *  GitHub/GitLab
 
-![image](https://i.gifer.com/4NWG.gif)
+![image](https://github.com/bam10112002/bam10112002/blob/main/4NWG.gif)
